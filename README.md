@@ -1,2 +1,2 @@
 # Configuracao_linux
-Configuração de diretórios, usuários, pastas e grupos num ambiente Linux.
+Configuração de diretórios, usuários e grupos num ambiente Linux.
